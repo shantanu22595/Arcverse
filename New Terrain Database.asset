@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d995d452c7b5c4d9b1b5ffd86c3625, type: 3}
+  m_Name: New Terrain Database
+  m_EditorClassIdentifier: 
+  terrains:
+  - noiseHeightMultiplierValue: 0
+    noiseScale: 0
+    sprite: {fileID: 21300000, guid: a83e2c8829a97ba4abfb75ecccdb9d7a, type: 3}
+  - noiseHeightMultiplierValue: 0.05
+    noiseScale: 0.5
+    sprite: {fileID: 21300000, guid: 6ffc8b33adfc1c04793066c4f654ea1c, type: 3}
+  - noiseHeightMultiplierValue: 0.09
+    noiseScale: 0.9
+    sprite: {fileID: 21300000, guid: 7dc21b4e20a7bf545a785d84ea081800, type: 3}
